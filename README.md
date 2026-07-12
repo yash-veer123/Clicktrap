@@ -54,7 +54,4 @@ pip3 install -r requirements.txt
 
 ClickTrap offers flexible execution modes tailored for both single-target validation and massive bug-bounty pipelines.
 
-### 1. View Help Menu
-To see all available arguments and flags supported by the core engine:
-```bash
 python3 clicktrap.py 
