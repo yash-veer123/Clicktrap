@@ -44,6 +44,6 @@
 Clone the repository and set up the dependencies inside your Kali Linux terminal:
 
 ```bash
-git clone [https://github.com/devjangid/ClickTrap.git](https://github.com/devjangid/ClickTrap.git)
+git clone https://github.com/yash-veer123/Clicktrap.git
 cd ClickTrap
 pip3 install -r requirements.txt
