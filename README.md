@@ -47,3 +47,14 @@ Clone the repository and set up the dependencies inside your Kali Linux terminal
 git clone https://github.com/yash-veer123/Clicktrap.git
 cd ClickTrap
 pip3 install -r requirements.txt
+
+---
+
+## 📖 USAGE
+
+ClickTrap offers flexible execution modes tailored for both single-target validation and massive bug-bounty pipelines.
+
+### 1. View Help Menu
+To see all available arguments and flags supported by the core engine:
+```bash
+python3 clicktrap.py 
